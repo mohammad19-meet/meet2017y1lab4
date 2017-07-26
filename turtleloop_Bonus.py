@@ -1,0 +1,4 @@
+impiort turtle
+
+
+turtle.goto*()
